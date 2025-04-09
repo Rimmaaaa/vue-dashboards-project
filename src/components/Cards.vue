@@ -2,7 +2,7 @@
     import axios from 'axios';
     import { ref, onMounted } from 'vue';
     
-    const apiKey = import.meta.env.VITE_API_KEY_FMP;
+    const apiKey = 'FJFuUeEflqsZPXIMH37Yj8pv7Ngh4dBt';
     const revenue = ref()
     const revenueLast = ref()
     const netIncomeRatio = ref()
