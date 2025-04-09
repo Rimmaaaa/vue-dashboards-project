@@ -6,7 +6,7 @@ import { Doughnut } from 'vue-chartjs'
 
 ChartJS.register(ArcElement, Tooltip, Legend)
 
-const apiKey = import.meta.env.VITE_API_KEY_FMP;
+const apiKey = 'FJFuUeEflqsZPXIMH37Yj8pv7Ngh4dBt';
 
 const options = ref({
     responsive: true,

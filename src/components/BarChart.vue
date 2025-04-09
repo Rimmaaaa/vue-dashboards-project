@@ -73,7 +73,7 @@
   } from 'chart.js'
   import { Bar } from 'vue-chartjs'
 
-  const apiKey = import.meta.env.VITE_API_KEY_FMP;
+  const apiKey = 'FJFuUeEflqsZPXIMH37Yj8pv7Ngh4dBt';
   
   const profitValue = ref()
   const profitValueLast = ref()
